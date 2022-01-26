@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhiraj010
-- 👀 I’m interested in Machine Learining and AI.
+- 👀 I’m interested in Web developement.
 - 🌱 I’m currently learning Machine Learning and Python.
 - 💞️ I’m looking to collaborate on any basic level project on Python.
 - 📫 you can reach me at saha.amit.ind@gmail.com
