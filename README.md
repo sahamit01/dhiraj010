@@ -1,8 +1,46 @@
-- 👋 Hi, I’m @dhiraj010
-- 👀 I’m interested in Web developement.
-- 📫 you can reach me at saha.amit.ind@gmail.com
+# 👋 Welcome to my GitHub
 
-<!---
-dhiraj010/dhiraj010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This space is dedicated to my ongoing work in **Python**, **AI automation**, and **intelligent software development**.
+
+---
+
+## 🧠 Focus Areas
+
+- Python programming & scripting  
+- AI agent development  
+- Smart automation tools  
+- Data handling and analysis  
+- Real-world problem solving using code
+
+---
+
+## 🛠️ Current Stack
+
+- Languages: Python (core), Markdown, Bash  
+- Tools: Jupyter, VS Code, GitHub, Anaconda  
+- Libraries: pandas, requests, datetime, matplotlib
+
+---
+
+## 🔄 Projects In Progress
+
+- CLI tools for task and data management  
+- AI-based assistants for service businesses  
+- Automation workflows using APIs and prompt engineering  
+- Exploratory work on smart device integrations
+
+---
+
+## 📁 What You'll Find Here
+
+- Mini projects and scripts  
+- Practical notebooks and utilities  
+- Learning-based repos focused on core AI tools  
+- Experiments with data, logic, and automation
+
+---
+
+## 📬 Let's Connect
+
+- [LinkedIn]:  
+- [Portfolio Website](https://yourwebsite.com) *(coming soon)*  
